@@ -10,13 +10,11 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 };
 var core_1 = require('@angular/core');
 var platform_browser_1 = require('@angular/platform-browser');
-
 var app_component_1 = require('./app.component');
 var homepage_component_1 = require('./homepage/homepage.component');
 var documents_component_1 = require('./documents/documents.component');
 var proposal_list_component_1 = require('./proposal/proposal-list.component');
 var app_routing_module_1 = require('./app-routing.module');
-
 var AppModule = (function () {
     function AppModule() {
     }
